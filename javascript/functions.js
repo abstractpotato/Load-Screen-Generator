@@ -53,7 +53,6 @@ function w() {
 }
 
 // COOKIE FUNCTIONS TAKEN FROM W3 SCHOOL
-// I DON'T MAKE ANY CLAIMS HAVE CREATED OR OWN THIS CODE.
 // https://www.w3schools.com/js/js_cookies.asp
 
 function setCookie(cname, cvalue, exdays) {
